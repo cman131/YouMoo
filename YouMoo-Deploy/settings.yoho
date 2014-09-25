@@ -1,0 +1,8 @@
+//Search Term
+DefaultSearchTerm: "legend of zelda music"
+
+//Browser{ Chrome:"CH", Firefox:"FF" }
+DefaultBrowser: "CH"
+
+//Whether the GUI should be on or not { yes:"TRUE", no:"FALSE" }
+GUI_ON: "TRUE"

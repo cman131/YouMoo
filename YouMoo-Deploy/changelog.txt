@@ -1,0 +1,8 @@
+~~Updated: 2/7/14~~
+Version: 1.3
+Changes:
+ - adblock added to remove ads from videos
+ - updated to click next video after teh video is complete rather than after 5 minutes
+ - included enter button functionality for text field
+ - settings file generation; if the settings file is deleted a new one is made
+
